@@ -1,0 +1,11 @@
+# .NET files
+BE-CRUDMascotas/bin/
+BE-CRUDMascotas/obj/
+BE-CRUDMascotas/.vs/
+
+# Angular files
+FE-CRUDMascotas/node_modules/
+FE-CRUDMascotas/dist/
+
+# General files
+*.log
